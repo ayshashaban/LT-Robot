@@ -5,7 +5,7 @@ This project is designed to control a Line Follower Robot using IR Sensors.
 ## Hardware Requirements
 
 -  **Robotic car kit.**
--  **Arduino UNO.**
+-  **Arduino NANO.**
 -  **Motor Driver L298n.**
 -  **2 DC Motors.**
 -  **Power Supply.**
