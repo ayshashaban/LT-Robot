@@ -1,17 +1,17 @@
 // Define pins for motor driver 
-int enA = 9; 
-int in1 = 4; 
-int in2 = 5; 
-int enB = 10; 
-int in3 = 2; 
-int in4 = 3; 
+int enA = 6; 
+int in1 = 3; 
+int in2 = 2; 
+int enB = 5; 
+int in3 = 1; 
+int in4 = 0; 
  
 // Define pins for Ir sensor 
-int mostleft = 6;
-int leftsensor =  7;
-int middle = 8;
-int rightsensor = 11; 
-int mostright = 12;
+int mostleft = 13;
+int leftsensor =  12;
+int middle = 11;
+int rightsensor = 10; 
+int mostright = 9;
 
 void setup() { 
   pinMode(enA, OUTPUT); 
