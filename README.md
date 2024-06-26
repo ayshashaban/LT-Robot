@@ -9,6 +9,7 @@ calibration to improve detection and response time.
 -  **Arduino NANO.**
 -  **Motor Driver L298n.**
 -  **2 DC Motors.**
+-  **Caster wheel.**
 -  **Power Supply.**
 -  **5 IR Sensor channel.**
 -  **Connecting Wiers.**
