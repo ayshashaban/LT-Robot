@@ -1,6 +1,7 @@
 # Line Follower Robot Project
 
-This project is designed to control a Line Follower Robot using IR Sensors.
+Developed a Line Follower Robot utilizing Infrared (IR) sensors for path detection and programmed the robot to follow any path with high accuracy, and optimized sensor placement and 
+calibration to improve detection and response time.
 
 ## Hardware Requirements
 
