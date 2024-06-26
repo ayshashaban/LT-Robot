@@ -23,7 +23,7 @@ calibration to improve detection and response time.
 
 You can find the circuit used in the project [here](https://github.com/ayshashaban/LT-robot/blob/main/LT_ROBOT.png)
 
-## code
+## Code
 
 You can find the code used in the project [here](https://github.com/ayshashaban/LT-robot/blob/main/code.pm)
 
